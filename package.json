@@ -1,0 +1,15 @@
+{
+  "name": "hellbackend",
+  "version": "1.0.0",
+  "description": "backend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hell",
+    "node"
+  ],
+  "author": "harshit Prajapati",
+  "license": "ISC"
+}
